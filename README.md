@@ -1,5 +1,5 @@
 # NatourProject
 
-<p>CSS Grid layouts: main concepts, CSS grid vs flexbox</p>
-<p>Advanced responsive design workflows: mobile-first vs desktop-first strategies, selecting breakpoints, em vs rem units and feature queries to test for browser support</p>
-<p>Using Sass: setting global variables, building for reusability, architecting CSS and managing media queries;</p>
+<p>Using Sass in projects: setting global variables, building for reusability, architecting CSS and managing media queries</p>
+<p>Responsive images in HTML and CSS for faster pageloads: resolution switching, density switching, art direction</p>
+<p>he NPM ecosystem: setting up a development process to compile Sass and automatic browser reload, and creating a build process to concatenate, prefix and compress CSS files</p>
